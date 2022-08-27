@@ -1,0 +1,62 @@
+2022-06-28 20:20:35,850 * INFO * com.twrental.twrent.Controller.UserController * GetCars * Someone with UserName : user Display the car , The list is empty
+2022-06-28 20:20:54,290 * INFO * com.twrental.twrent.Controller.UserController * GetCars * Someone with UserName : user Display the cars
+2022-06-28 20:21:57,441 * INFO * com.twrental.twrent.Controller.UserController * NewBooking * Someone with UserName : user tried to rent a car, the carId is : 9 , carId is WRONG!
+2022-06-28 20:23:34,417 * INFO * com.twrental.twrent.Controller.UserController * NewBooking * Someone with UserName : user tried to rent a car, the carId is : 3, with bad request, Date empty!
+2022-06-28 20:23:57,941 * INFO * com.twrental.twrent.Controller.UserController * NewBooking * Someone with UserName : user  rented a car, the carId is : 3
+2022-06-28 20:24:58,469 * INFO * com.twrental.twrent.Controller.UserController * NewBooking * Someone with UserName : user tried to rent a car, the carId is : 3 the car is not available!
+2022-06-28 20:26:22,945 * INFO * com.twrental.twrent.Controller.UserController * UpdateMyOrder * Someone with UserName : user updated booking with Id : 1
+2022-06-28 20:27:47,971 * INFO * com.twrental.twrent.Controller.UserController * UpdateMyOrder * Someone with UserName : user canceled booking with Id : 1
+2022-06-28 20:27:47,971 * INFO * com.twrental.twrent.Controller.UserController * UpdateMyOrder * Someone with UserName : user updated booking with Id : 1
+2022-06-28 20:29:15,481 * INFO * com.twrental.twrent.Controller.UserController * UpdateMyOrder * Someone with UserName : user tried to update booking with Id : 2 , Booking not found!
+2022-06-28 20:30:00,668 * INFO * com.twrental.twrent.Controller.UserController * UpdateMyOrder * Someone with UserName : admin updated booking with Id : 1
+2022-06-28 20:30:31,318 * INFO * com.twrental.twrent.Controller.UserController * UpdateMyOrder * Someone with UserName : admin updated booking with Id : 1
+2022-06-28 20:30:42,157 * INFO * com.twrental.twrent.Controller.UserController * UpdateMyOrder * Someone with UserName : admin canceled booking with Id : 1
+2022-06-28 20:30:42,157 * INFO * com.twrental.twrent.Controller.UserController * UpdateMyOrder * Someone with UserName : admin updated booking with Id : 1
+2022-06-28 20:30:55,949 * INFO * com.twrental.twrent.Controller.UserController * UpdateMyOrder * Someone with UserName : admin updated booking with Id : 1
+2022-06-28 20:31:17,030 * INFO * com.twrental.twrent.Controller.UserController * GetCars * Someone with UserName : user Display the cars
+2022-06-28 20:31:46,642 * INFO * com.twrental.twrent.Controller.UserController * UpdateMyOrder * Someone with UserName : admin updated booking with Id : 1
+2022-06-28 20:35:07,347 * INFO * com.twrental.twrent.Controller.UserController * UpdateMyOrder * Someone with UserName : admin updated booking with Id : 1
+2022-06-28 20:35:13,197 * INFO * com.twrental.twrent.Controller.UserController * GetCars * Someone with UserName : user Display the cars
+2022-06-28 20:35:29,565 * INFO * com.twrental.twrent.Controller.UserController * UpdateMyOrder * Someone with UserName : admin canceled booking with Id : 1
+2022-06-28 20:35:29,573 * INFO * com.twrental.twrent.Controller.UserController * UpdateMyOrder * Someone with UserName : admin updated booking with Id : 1
+2022-06-28 20:35:37,453 * INFO * com.twrental.twrent.Controller.UserController * GetCars * Someone with UserName : user Display the cars
+2022-06-28 20:36:19,847 * INFO * com.twrental.twrent.Controller.UserController * GetMyOrders * Someone with UserName : user display own orders
+2022-06-28 20:36:49,269 * INFO * com.twrental.twrent.Controller.UserController * GetMyOrders * An admin with UserName: admin display alla orders
+2022-06-28 20:37:13,786 * INFO * com.twrental.twrent.Controller.AdminController * GetCustomers * Admin Display all customers, but the list is empty
+2022-06-28 20:40:44,352 * INFO * com.twrental.twrent.Controller.AdminController * GetCustomers * Admin Display all customers
+2022-06-28 20:41:55,549 * INFO * com.twrental.twrent.Controller.AdminController * DeleteCar * Admin deleted a car, carId : 3
+2022-06-28 20:42:12,902 * INFO * com.twrental.twrent.Controller.UserController * GetCars * Someone with UserName : user Display the cars
+2022-06-28 20:43:46,171 * INFO * com.twrental.twrent.Controller.AdminController * UpdateCar * An Admin updated a car : Car Id : 1
+2022-06-28 20:44:27,590 * INFO * com.twrental.twrent.Controller.AdminController * UpdateCar * An Admin updated a car : Car Id : 1
+2022-06-28 20:44:48,081 * INFO * com.twrental.twrent.Controller.AdminController * UpdateCar * Admin tried to update a car : Car Id : 10 but carId is wrong
+2022-06-28 20:47:59,711 * INFO * com.twrental.twrent.Controller.AdminController * AddNewCar * Admin added a car
+2022-06-28 20:48:15,192 * INFO * com.twrental.twrent.Controller.UserController * GetCars * Someone with UserName : user Display the cars
+2022-06-28 21:05:08,059 * INFO * com.twrental.twrent.Controller.UserController * GetCars * Someone with UserName : user Display the car , The list is empty
+2022-06-28 21:05:25,728 * INFO * com.twrental.twrent.Controller.UserController * GetCars * Someone with UserName : user Display the cars
+2022-06-28 21:06:01,407 * INFO * com.twrental.twrent.Controller.UserController * NewBooking * Someone with UserName : user tried to rent a car, the carId is : 9 , carId is WRONG!
+2022-06-28 21:07:41,237 * INFO * com.twrental.twrent.Controller.UserController * GetCars * Someone with UserName : user Display the cars
+2022-06-28 21:07:45,602 * INFO * com.twrental.twrent.Controller.UserController * NewBooking * Someone with UserName : user tried to rent a car, the carId is : 9 , carId is WRONG!
+2022-06-28 21:09:06,988 * INFO * com.twrental.twrent.Controller.UserController * NewBooking * Someone with UserName : user tried to rent a car, the carId is : 9 , carId is WRONG!
+2022-06-28 21:09:10,288 * INFO * com.twrental.twrent.Controller.UserController * NewBooking * Someone with UserName : user tried to rent a car, the carId is : 3, with bad request, Date empty!
+2022-06-28 21:09:23,827 * INFO * com.twrental.twrent.Controller.UserController * NewBooking * Someone with UserName : user  rented a car, the carId is : 3
+2022-06-28 21:10:03,902 * INFO * com.twrental.twrent.Controller.UserController * NewBooking * Someone with UserName : user tried to rent a car, the carId is : 3 the car is not available!
+2022-06-28 21:11:31,660 * INFO * com.twrental.twrent.Controller.UserController * UpdateMyOrder * Someone with UserName : user updated booking with Id : 1
+2022-06-28 21:14:17,219 * INFO * com.twrental.twrent.Controller.UserController * UpdateMyOrder * Someone with UserName : user canceled booking with Id : 1
+2022-06-28 21:14:17,219 * INFO * com.twrental.twrent.Controller.UserController * UpdateMyOrder * Someone with UserName : user updated booking with Id : 1
+2022-06-28 21:15:56,343 * INFO * com.twrental.twrent.Controller.UserController * UpdateMyOrder * Someone with UserName : user canceled booking with Id : 1
+2022-06-28 21:15:56,343 * INFO * com.twrental.twrent.Controller.UserController * UpdateMyOrder * Someone with UserName : user updated booking with Id : 1
+2022-06-28 21:17:03,025 * INFO * com.twrental.twrent.Controller.UserController * UpdateMyOrder * Someone with UserName : user tried to update booking with Id : 2 , Booking not found!
+2022-06-28 21:17:44,858 * INFO * com.twrental.twrent.Controller.UserController * UpdateMyOrder * Someone with UserName : admin updated booking with Id : 1
+2022-06-28 21:17:57,757 * INFO * com.twrental.twrent.Controller.UserController * UpdateMyOrder * Someone with UserName : admin canceled booking with Id : 1
+2022-06-28 21:17:57,765 * INFO * com.twrental.twrent.Controller.UserController * UpdateMyOrder * Someone with UserName : admin updated booking with Id : 1
+2022-06-28 21:18:15,427 * INFO * com.twrental.twrent.Controller.UserController * GetCars * Someone with UserName : user Display the cars
+2022-06-28 21:18:29,382 * INFO * com.twrental.twrent.Controller.UserController * GetMyOrders * Someone with UserName : user display own orders
+2022-06-28 21:18:48,183 * INFO * com.twrental.twrent.Controller.UserController * GetMyOrders * An admin with UserName: admin display alla orders
+2022-06-28 21:19:21,082 * INFO * com.twrental.twrent.Controller.AdminController * GetCustomers * Admin Display all customers
+2022-06-28 21:19:53,797 * INFO * com.twrental.twrent.Controller.AdminController * GetCustomers * Admin Display all customers
+2022-06-28 21:20:34,445 * INFO * com.twrental.twrent.Controller.AdminController * DeleteCar * Admin deleted a car, carId : 3
+2022-06-28 21:20:56,101 * INFO * com.twrental.twrent.Controller.AdminController * UpdateCar * An Admin updated a car : Car Id : 1
+2022-06-28 21:21:11,031 * INFO * com.twrental.twrent.Controller.AdminController * UpdateCar * An Admin updated a car : Car Id : 1
+2022-06-28 21:21:18,371 * INFO * com.twrental.twrent.Controller.AdminController * UpdateCar * An Admin updated a car : Car Id : 1
+2022-06-28 21:21:41,092 * INFO * com.twrental.twrent.Controller.AdminController * UpdateCar * Admin tried to update a car : Car Id : 10 but carId is wrong
+2022-06-28 21:23:26,297 * INFO * com.twrental.twrent.Controller.AdminController * AddNewCar * Admin added a car
